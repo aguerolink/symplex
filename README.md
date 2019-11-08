@@ -6,9 +6,9 @@ Se trata de un proyecto de maquetado para un blog de fotografia, como primera me
 
 ## Tecnologías 
 
-HTML5 utilizando arquitectura BEM
-CSS3 
-SASS
+- HTML5 utilizando arquitectura BEM
+- CSS3 
+- SASS
 
 ### Images referencia
 
