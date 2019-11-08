@@ -12,9 +12,9 @@ Se trata de un proyecto de maquetado para un blog de fotografia, como primera me
 
 ### Images referencia
 
-![Screen1]()
-![Screen2]()
-![Screen3]()
+![Screen1](https://github.com/aguerolink/symplex/blob/master/assets/imgs_muestra/screen1.png)
+![Screen2](https://github.com/aguerolink/symplex/blob/master/assets/imgs_muestra/screen2.png)
+![Screen3](https://github.com/aguerolink/symplex/blob/master/assets/imgs_muestra/screen3.png)
 
 ## Autor 
 
